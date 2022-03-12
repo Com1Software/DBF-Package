@@ -3,6 +3,7 @@ A Golang Package to Read and Write DBF files.
 
 [DBF Links and Information](https://github.com/Com1Software/Test-DBF-Package/wiki/Test-DBF-Package)
 
+[Testd DBF-Package](https://github.com/Com1Software/Test-DBF-Package)
 
 # Package functions:
 
