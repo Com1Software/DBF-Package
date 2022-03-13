@@ -9,6 +9,7 @@ import (
 	"strconv"
 )
 
+//------------------ (c) 1992-2022 Com1 Software Development
 //
 //Checks for full file name. Returns true if the file
 //is present and false if it is not.
