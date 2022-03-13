@@ -5,6 +5,8 @@ A Golang Package to Read and Write DBF files.
 
 [Testd DBF-Package](https://github.com/Com1Software/Test-DBF-Package)
 
+[Go Playground for Programmers](https://github.com/Com1Software/Go-Playground-for-Programmers/wiki/Golang-Links)
+
 # Package functions:
 
 ### CheckForFile
