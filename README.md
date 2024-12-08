@@ -7,7 +7,7 @@ A Golang Package to Read and Write DBF files.
 
 [Go Playground for Programmers](https://github.com/Com1Software/Go-Playground-for-Programmers)
 
-[DBU}(https://github.com/Com1Software/DBU)
+[DBU](https://github.com/Com1Software/DBU)
 
 # Package functions:
 
